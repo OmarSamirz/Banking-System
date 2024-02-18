@@ -1,0 +1,12 @@
+D:\College\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.vcxproj.AssemblyReference.cache
+D:\College\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.vcxproj.SuggestedBindingRedirects.cache
+D:\College\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.SignIn.resources
+D:\College\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.vcxproj.GenerateResource.cache
+D:\College\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.DashBoard.resources
+D:\College\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.Admin.resources
+D:\College Years\Year - 02\Semester - 01\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.vcxproj.AssemblyReference.cache
+D:\College Years\Year - 02\Semester - 01\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.vcxproj.SuggestedBindingRedirects.cache
+D:\College Years\Year - 02\Semester - 01\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.Admin.resources
+D:\College Years\Year - 02\Semester - 01\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.DashBoard.resources
+D:\College Years\Year - 02\Semester - 01\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.SignIn.resources
+D:\College Years\Year - 02\Semester - 01\Data Structure\Project\bankSystem\bankSystem\x64\Debug\bankSystem.vcxproj.GenerateResource.cache
